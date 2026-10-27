@@ -1,0 +1,42 @@
+NUBELUNA — cómo cambiar las imágenes y el video
+================================================
+
+Todo el sitio vive en la carpeta "nubeluna":
+
+  nubeluna/
+    index.html      -> textos y estructura
+    style.css       -> colores, tipografía y efectos
+    script.js       -> carrusel, menú, carrito, animaciones
+    imagenes/       -> TODAS las fotos
+    video/          -> el video del blog (proceso.mp4)
+
+CAMBIAR UNA IMAGEN
+------------------
+Reemplaza el archivo dentro de "imagenes/" conservando el MISMO nombre.
+No hay que tocar el código.
+
+  hero-1.jpg .............. carrusel principal (foto 1)
+  hero-2.jpg .............. carrusel principal (foto 2)
+  hero-3.jpg .............. carrusel principal (foto 3)
+  nosotros.jpg ............ sección Nosotros
+  producto-suave.jpg ...... almohada suave
+  producto-firme.jpg ...... almohada firme
+  producto-ortopedica.jpg . almohada ortopédica
+  blog-proceso.jpg ........ portada del video del blog
+
+Tamaños recomendados: carrusel 1600x1000 px, productos 1000x1000 px.
+
+CAMBIAR EL VIDEO
+----------------
+Guarda tu video como: video/proceso.mp4
+
+CAMBIAR DATOS DE CONTACTO
+-------------------------
+En index.html busca:
+  hola@nubeluna.com   -> tu correo
+  https://wa.me/000000000 -> tu número de WhatsApp (ej: https://wa.me/573001234567)
+  los enlaces de Facebook, Instagram y TikTok
+
+CAMBIAR PRECIOS
+---------------
+En index.html, sección "TIENDA": edita los textos de precio de cada tarjeta.
